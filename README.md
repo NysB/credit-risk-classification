@@ -5,7 +5,7 @@ The task was to build, train and evaluate a model that can identify the creditwo
 
 ## Attachments
 In this repository, you will find:
-- a folder called "Credit_Risk": In this folder, you will find the dataset provided for this homework and the code I have written to built, train and evaluate the Logistic Regression Model.
+- a folder called "Credit_Risk": In this folder, you will find the dataset provided for this homework and the code I have written to build, train and evaluate the Logistic Regression Model.
 
 ## Result
 
